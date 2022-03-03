@@ -1,0 +1,87 @@
+
+
+Principle Of Agile model
+
+1.Requirement change can be done on any phase of life cycle.
+2.Release will be very fast
+3.Customer satisfaction is the main goal to deliver the working piece of code in very short time.
+4.Agile provide very good platform for healthy communicating customer, analyst , devloper and tester.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction to scrum
+
+Scrum is a agile process to manage software devlopment project. There are 3 main roles involve in the scrum team.
+
+1.Scrum Master
+2.Product owner 
+3.Devlopment team.
+
+Mom - Minutes of meeting 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+1.Scrum Master
+Scrum master is similar to project manager
+
+Scrum master schedule daily status call betwwen the teams
+Scrum master schedule weekly status with the team and client.
+Scrum master share minutes of meeting of every meeting
+Scrum master provides infrastructure to the team.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+2.Product Oqner
+
+He is a representative from the buisness side  who determines the priority of the item to be devloped
+-----------------------------------------------------------------------------------------------------------------------------------------------
+3.Devlopment team
+
+Scrum can be composed of devlopers Quality analyst and buisness analyst
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Sprint 
+
+Sprint is an iteration in which the devlopment team (Devlopers and Qa team) Work on a backlog Sprint is typically last two weeks or 30 days.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sprint Planning
+
+Before a sprint start the product owner( With the help of scrum master ) reviews the list of all new features enhncement change requests and bug reports
+accumulates=d over a time to decide which one is more important for implementation
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Product backlog
+
+Entire list of item to be implemented is called product backlog.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sprint Retrospectro
+
+Sprint retrospectro is the lesson learnd from Current sprint. After retrospectro meetin g team is ready for next sprint.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Jira tool
+
+It is a Project Management tool this tool also provides an iftastructure to integrate with third party tools like github jenkins etc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+defect
+
+any funcionality which is not working according to the requirements during the testing is called defect.
+
+----------------------------------------------------------------------------------------------------
+
+Fault 
+
+fault is an icorrect step,Proceess or data defination on the software product.
+-----------------------------------------------------------------------------------
+
+Enhancement( RFE)
+
+Enhancement is the change request
+
+----------------------------------------------------------
+Seveiority IS DEFINED AS THE DEGREE OF IMPACT from the functionality of an defect higher effect on the system functionality Higher seviority to the bug
+seveiority is given by QA.
+
+Priority is assigned to the order in which a defect shoukd be fixed.
+----------------------------------------------------------------------------------------------------------------------------
+Scrum Epic
+
+Scrum epic in a agile methdology is a big chunk of work which can be divided into small user stories epic is a high level Description
+ An epic can be spread across sprint and even across egile team. it is a high level decription of what the client want. and accordingly
+ it has same value attached with it
+------------------------------------------------------------------------------------------------------------------------------------------------
+
